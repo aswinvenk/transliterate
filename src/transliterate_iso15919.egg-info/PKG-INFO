@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: transliterate-iso15919
+Version: 0.0.1
+Summary: "A package to transliterate indian text based on ISO 15919"
+Home-page: https://github.com/aswinvenk/transliterate
+Author: "Aswin Venkat"
+Author-email: "aswinvenk8@gmail.com"
+Project-URL: Bug Tracker, https://github.com/aswinvenk/transliterate/issues
+Keywords: tamil,hindi,transliterate,indian,language
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
